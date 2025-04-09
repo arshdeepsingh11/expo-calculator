@@ -1,4 +1,4 @@
-// app/_layout.tsx
+// app layout
 import { Stack } from 'expo-router';
 
 export default function Layout() {
