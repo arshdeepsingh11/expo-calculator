@@ -20,6 +20,7 @@ A modern calculator app built with **Expo**, **React Native**, and **TypeScript*
 ### Prerequisites
 
 Make sure you have the following installed:
+
 - Node.js
 - Expo CLI (`npm install -g expo-cli`)
 - Android Studio or Xcode (for mobile simulation)
@@ -56,3 +57,10 @@ Jest
 
 🛠 Development
 This app uses strict TypeScript configuration and modular paths defined in tsconfig.json for better developer experience.
+
+Contributors
+Arshdeep Singh
+Parth
+Sneha
+Shubham
+```
