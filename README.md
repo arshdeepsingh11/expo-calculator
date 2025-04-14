@@ -1,66 +1,45 @@
-# Calculator App
+📱 Calculator App
+A modern calculator app built using Expo, React Native, and TypeScript. It features a clean and intuitive user interface, designed to work seamlessly on both Android and iOS devices.
 
-A modern calculator app built with **Expo**, **React Native**, and **TypeScript**. This app features a clean UI, intuitive design, and is optimized for both Android and iOS platforms.
+✨ Features
+📱 Built with Expo SDK 52
 
----
+🛡️ Developed in TypeScript for type safety and better code reliability
 
-## 📱 Features
+🚀 Navigation powered by Expo Router
 
-- Built with **Expo SDK 52**
-- Uses **TypeScript** for better code reliability
-- Navigation handled by **Expo Router**
-- Modular and scalable code structure
-- Splash screen and icons configured via `app.json`
-- Jest setup for unit testing
+🧩 Modular and scalable code architecture
 
----
+🎨 Custom splash screen and app icons configured via app.json
 
-## 🚀 Getting Started
+🧪 Jest setup for unit testing and test-driven development
 
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js
-- Expo CLI (`npm install -g expo-cli`)
-- Android Studio or Xcode (for mobile simulation)
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd expo-calculator
-npm install
-
-📁 Project Structure
-pgsql
+📂 Project Structure
+bash
 Copy
 Edit
-calculator-app/
-├── assets/
-├── components/
-├── screens/
-├── app.json
-├── package.json
-└── tsconfig.json
 
-📦 Tech Stack
+calculator-app/
+├── assets/           # Images, fonts, splash screen
+├── components/       # Reusable UI components
+├── screens/          # All screen components (e.g., Home, History)
+├── app.json          # App configuration (icons, splash, name)
+├── package.json      # Project dependencies and scripts
+└── tsconfig.json     # TypeScript configuration
+
+🧰 Tech Stack
 Expo
 
 React Native
 
 TypeScript
 
-Expo Router
-
-Jest
-
-🛠 Development
-This app uses strict TypeScript configuration and modular paths defined in tsconfig.json for better developer experience.
-
-Contributors
+👥 Contributors
 Arshdeep Singh
+
 Parth
+
 Sneha
+
 Shubham
-```
+
