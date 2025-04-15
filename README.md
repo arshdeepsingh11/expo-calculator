@@ -2,7 +2,7 @@
 A modern calculator app built using Expo, React Native, and TypeScript. It features a clean and intuitive user interface, designed to work seamlessly on both Android and iOS devices.
 
 ✨ Features
-📱 Built with Expo SDK 52
+📱 Build
 
 🛡️ Developed in TypeScript for type safety and better code reliability
 
@@ -35,6 +35,7 @@ React Native
 TypeScript
 
 👥 Contributors
+
 Arshdeep Singh
 
 Parth
